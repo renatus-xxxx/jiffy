@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/renatus-xxxx/jiffy/main/images/tether.png" title="tether" />
+
 [English](README.md) / [Japanese](README.ja.md)
 
 ## Jiffy
