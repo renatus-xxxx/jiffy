@@ -1,4 +1,6 @@
-## jiffy
+[English](README.md) / [Japanese](README.ja.md)
+
+## Jiffy
 
 **jiffy** is a simple command-line tool that interacts with the system timer located at memory address 0xfc9e (JIFFY) that allows you to view and set the system timer.
 
