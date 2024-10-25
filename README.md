@@ -1,13 +1,13 @@
-#jiffy
+##jiffy
 
-**jiffy** is a simple utility for MSX-DOS that allows you to view and set the system timer.
+**jiffy** is a simple command-line tool that interacts with the system timer located at memory address 0xfc9e (JIFFY) that allows you to view and set the system timer.
 
 ## Features
 
 - Display the current value of the system timer
 - Set a new value for the system timer
 
-## usage
+## Usage
 
 To display the current system timer value, execute the application without any arguments:
 
